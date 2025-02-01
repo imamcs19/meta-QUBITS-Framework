@@ -9,6 +9,6 @@ Authors:
 4. Arief Andy Soebroto (ariefas@ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
 
 Presentation:
-![cover](https://raw.githubusercontent.com/imamcs19/Digital-Quran-Ai---Al-Imamain-Utilize-meta-Deep-Lightweight-SORA-Algorithm/refs/heads/main/cover%20-%20ppt%20icgt%2014%20-%20meta-Deep%20L%20Sora%20alg%20-%20Imam%20CS%20et.%20al.%20v2.5.png)
+![cover](https://raw.githubusercontent.com/imamcs19/meta-QUBITS-Framework/refs/heads/main/cover-PPT-Motip-10%20-%20Dev%20Campus%20Management%20Framework%20Using%20Meta-Deep%20AI%20Based%20on%209%20Helix%20Model%20and%20Open%20Innovation%20v1.05.png)
 
 The 10th International Conference on Management of Technology, Innovation, and Project (MOTIP 10), Surabaya, February 1st 2025, (via Zoom)
